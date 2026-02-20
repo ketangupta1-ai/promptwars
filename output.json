@@ -1,0 +1,90 @@
+[
+  {
+    "query": "nike k red running shoes under 5k",
+    "product": "running shoes",
+    "brand": "nike",
+    "color": "red",
+    "price": "less than 5000"
+  },
+  {
+    "query": "500kg industrial grade sulfuric acid below 15k in ahmedabad",
+    "product": "sulfuric acid",
+    "quantity": "500kg",
+    "grade": "industrial",
+    "price": "less than 15000",
+    "location": "ahmedabad"
+  },
+  {
+    "query": "bhai ek accha sa 43 inch 4K LED smart tv chahiye 20000 ke andar Samsung ya LG",
+    "product": "smart TV",
+    "size": "43 inch",
+    "resolution": "4K",
+    "type": "LED",
+    "brand": "Samsung/LG",
+    "price": "less than 20000"
+  },
+  {
+    "query": "50 rupaye wala chandan agarbatti 20 stick box wholesale 1000 boxes",
+    "product": "agarbatti",
+    "type": "chandan",
+    "price": "50",
+    "quantity": "20 sticks/box, 1000 boxes",
+    "order_type": "wholesale"
+  },
+  {
+    "query": "20000 रुपये से कम में 43 इंच 4K LED स्मार्ट टीवी चाहिए",
+    "product": "smart TV",
+    "size": "43 inch",
+    "resolution": "4K",
+    "type": "LED",
+    "price": "less than 20000"
+  },
+  {
+    "query": "FLIR E8-XT thermal imaging camera 320x240 IR resolution MSX enhancement -20 to 550 degree range",
+    "product": "thermal imaging camera",
+    "brand": "FLIR",
+    "model": "E8-XT",
+    "resolution": "320x240",
+    "temperature_range": "-20 to 550 degrees"
+  },
+  {
+    "query": "sonamasoori steam rice 6 months old 1000 to 1100 rupees 50 kg bag wholesaler",
+    "product": "steam rice",
+    "type": "sonamasoori",
+    "age": "6 months",
+    "price": "1000-1100",
+    "quantity": "50kg/bag",
+    "order_type": "wholesale"
+  },
+  {
+    "query": "કંથરાઈ ઈટ મલશે",
+    "product": "unknown",
+    "language": "Gujarati"
+  },
+  {
+    "query": "100 gsm silver laminate paper roll 48rs per kg ke rate per moradabad or noida ke aas paas ke area me",
+    "product": "silver laminate paper roll",
+    "gsm": "100",
+    "price": "48 rs/kg",
+    "location": "moradabad/noida"
+  },
+  {
+    "query": "double wall corrugated cardboard box 30x20x15 cm 3 ply for fragile items 500 pcs",
+    "product": "corrugated cardboard box",
+    "type": "double wall",
+    "size": "30x20x15 cm",
+    "ply": "3",
+    "quantity": "500",
+    "use": "fragile items"
+  },
+  {
+    "query": "Half anna bechana hai",
+    "product": "unknown"
+  },
+  {
+    "query": "నాకు 500 వాట్ల సోలార్ ప్యానెల్ కావాలి ఇంటి కోసం",
+    "product": "solar panel",
+    "wattage": "500W",
+    "use": "home"
+  }
+]

@@ -1,0 +1,20 @@
+so create an application which will take queries like this and will return the following thing like product and all possible attribute for a single queries, this is important for any b2b company to clearly distinguish for the attibute and better understanding of products and queires.
+The attribute and products understanding must be related to query itself as the attribute of ight bulb will be different from the attribute of the solar panel or TV.
+You must be telling the query and then all the attribute in the json so that there is better understanding for debug purpose
+The application must be able to generate json array for multiple queries.
+The application should be to understand other languages.
+for multiple queries the json format would look like (refrence json file).
+Query : nike k red running shoes under 5k
+Query 2: 500kg industrial grade sulfuric acid below 15k in ahmedabad
+Sample output :
+[
+{
+"product": "running shoes",
+"brand": "Nike",
+"color": "red",
+"price_upper_limit": 5000,
+},
+{
+"product": "sulfuric acid","category": "chemicals", "material": "industrial grade", "quantity": "500kg", "price_upper_limit": "15000", "location": "Ahmedabad"
+}
+]
